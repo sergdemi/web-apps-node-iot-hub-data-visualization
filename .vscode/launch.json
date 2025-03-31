@@ -15,8 +15,8 @@
             "sourceMaps": true,
             "env": {
                 "NODE_ENV": "local",
-                "IotHubConnectionString": "",
-                "EventHubConsumerGroup": "monitoring"
+                "IotHubConnectionString": "HostName=myIoTHubTutorialSergio.azure-devices.net;SharedAccessKeyName=service;SharedAccessKey=qSiMnmsvzIspFgIArrN2nCqoCWSTp4i0AAIoTCfCrHU=",
+                "EventHubConsumerGroup": "webconsumer"
             }
         }
     ]
